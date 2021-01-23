@@ -11,12 +11,13 @@ author: Kishore Jagadeesan
 navbar-links:
   Why PrAnaViz?: 
   Documentation:
-    - Quick-start guide:
+    - Quick-start guide: "quick-start.html"
     - Full tutorial: 
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
   Blog: "posts"
+  Home: ""
 
 # --- Logo --- #
 
