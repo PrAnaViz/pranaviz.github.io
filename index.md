@@ -1,0 +1,1 @@
+The aim of this tool is to visualise and analyse the prescription data to calculate total prescribed quantity of different APIs and to explore spatiotemporal trends of different APIs for wider use.
