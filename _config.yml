@@ -16,7 +16,7 @@ navbar-links:
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
-  Blog: "posts"
+  Blog: "blog"
   Home: ""
 
 # --- Logo --- #
