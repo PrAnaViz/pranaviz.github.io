@@ -16,7 +16,7 @@ navbar-links:
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
-  Blog: "https://pranaviz.github.io/blog"
+  Blog: "posts"
 
 # --- Logo --- #
 
@@ -37,7 +37,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "jkkishore85@gmail.com"
   #facebook: deanattali
   github: PrAnaViz
   #twitter: daattali
