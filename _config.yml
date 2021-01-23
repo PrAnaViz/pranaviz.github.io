@@ -11,8 +11,8 @@ author: Kishore Jagadeesan
 navbar-links:
   Why PrAnaViz?: 
   Documentation:
-    - Quick-start guide: "quick-start"
-    - Full tutorial: 
+    - Quick-start: "quick-start"
+    - Full tutorial:
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
