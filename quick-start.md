@@ -17,7 +17,7 @@ In this tab, user can input a list of APIs, and find out the total prescription 
 
 This tab also visualise the total quantity of APIs prescribed by month, GP, Chemical form, and Medicinal form for a CCG region in a selected year.
 
-<img src="img/targeted01_labelled.png" alt="targeted approach"/>
+<img src="/img/targeted01_labelled.png" alt="targeted approach"/>
 Figure 4.1: PrAna Targeted Approach.
 
 
@@ -38,7 +38,7 @@ Total prescription quantity of an individual API at different postcode per month
 The calculated total prescription quantity of an individual API at postcode level helps to find the hotspots.
 User can download data as _.csv_ file and publication ready image _.eps_ and _.pdf_ files.
 
-<img src="img/non_targeted02_labelled.png" title="non-targeted" alt="non-targeted approach"/>
+<img src="/img/non_targeted02_labelled.png" title="non-targeted" alt="non-targeted approach"/>
 Figure 4.2: PrAna Non-targeted Approach.
 
 | Option	| Remarks |
