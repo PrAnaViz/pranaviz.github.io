@@ -9,15 +9,13 @@ author: Kishore Jagadeesan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Why PrAnaViz?: 
+  PrAna: "prana"
   Documentation:
-    - Quick-start: "quick-start"
-    - Full tutorial:
+    - PrAna: 
+    - PrAnaViz Tutorial:"quick-start"
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
-  Blog: "blog"
-  Home: ""
 
 # --- Logo --- #
 
