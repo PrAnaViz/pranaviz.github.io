@@ -12,7 +12,7 @@ navbar-links:
   PrAna: "prana"
   Documentation:
     - PrAna: 
-    - PrAnaViz Tutorial:"quick-start"
+    - PrAnaViz: "quick-start"
   Publication:
     - Citing PrAnaViz:
     - Publications using PrAnaViz:
