@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Quick-Start Guide
 ---
 
 <!-- badges: start -->
@@ -24,6 +23,7 @@ The aim of `PrAna` is to aggregate and normalize prescription data to calculate 
 Apart, from the calculation of the total prescribed quantity of an API or a group of APIs, specified to a postcode or region, We have also developed, _an open interactive web-based tool_, `PrAnaViz` with the processed dataset for the period `2015` to `2019`.
 
 `PrAnaViz` facilitates users **to visualise, explore and report** different spatiotemporal and long-term prescription trends for wider use. 
+
 
 ## Workflow
 
@@ -52,10 +52,11 @@ install.packages("devtools")
 library(devtools)
 install_github("jkkishore85/PrAna")
 ```
-However, since it is dependent on some other software tools some extra steps are required for the installation. Please see the [installation section in the handbook][handbook-inst] for more information.
+However, since it is dependent on some other software tools some extra steps are required for the installation. Please see the installation section in the handbook <!--[handbook-inst] -->for more information.
 
-However, for a better guide to get started it is recommended to read the [tutorial][tutorial].
+However, for a better guide to get started it is recommended to read the tutorial. <!--]  [tutorial].-->
 
+<!--
 ## Shiny App Docker
 A R Shiny application that allows you to generate and visualise prescription data genereated using PrAna.
 
@@ -82,7 +83,7 @@ If you want to delete the container execute:
 ```
 docker rm my-shiny-app -f
 ```
-
+--> 
 ## Acknowledgements
 
 This package was built as a part of the **Wastewater Fingerprinting for Public Health Assessment (ENTRUST)** project funded by **University of Bath**, **Wessex Water** and **EPSRC IAA** _(grant no. EP/R51164X/1)_. 
@@ -91,9 +92,9 @@ This package was built as a part of the **Wastewater Fingerprinting for Public H
 We accept no liability for any errors in the data or its publication here: use this data at your own risk. You should not use this data to make individual prescribing decisions.
 
 [R]: https://www.r-project.org/
-[tutorial]: https://kishorejagadeesan.com/PrAna/handbook_bd/pranaviz.html
+<!--[tutorial]: https://kishorejagadeesan.com/PrAna/handbook_bd/pranaviz.html -->
 [NHS digital]: https://digital.nhs.uk/organisation-data-service/data-downloads/gp-data
-[handbook-inst]: https://kishorejagadeesan.com/PrAna/handbook_bd/install.html
+<!--[handbook-inst]: https://kishorejagadeesan.com/PrAna/handbook_bd/install.html -->
 [NHSBSA]: https://applications.nhsbsa.nhs.uk/infosystems/welcome
 [dm+d]: https://isd.digital.nhs.uk/trud3/user/guest/group/0/pack/6
 [dm+d2]: https://isd.digital.nhs.uk/trud3/user/guest/group/0/pack/6/subpack/239/releases
