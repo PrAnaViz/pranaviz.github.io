@@ -10,13 +10,14 @@ author: Kishore Jagadeesan
 
 navbar-links:
   Demo App: "http://pranaviz.bath.ac.uk:3838/pranaviz/"
-  PrAna: "prana"
+  #PrAna: "prana"
   Documentation:
     - PrAna: 
     - PrAnaViz: "quick-start"
+  Citing PrAnaViz: "citation"
   Publication:
-    - Citing PrAnaViz:
-    - Publications using PrAnaViz:
+    - Software:
+    - Application:
 
 # --- Logo --- #
 
