@@ -9,10 +9,9 @@ author: Kishore Jagadeesan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Demo App: "http://pranaviz.bath.ac.uk:3838/pranaviz/"
-  #PrAna: "prana"
+  Demo App: 
   Documentation:
-    - PrAna: 
+    - PrAna: "/files/prana_handbook.pdf"
     - PrAnaViz: "quick-start"
   Citing PrAnaViz: "citation"
   Publication:
