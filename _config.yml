@@ -13,8 +13,8 @@ navbar-links:
   Documentation:
     - PrAna: "/files/prana_handbook.pdf"
     - PrAnaViz: "quick-start"
-  Citing PrAnaViz: "citation"
-  Publication:
+  #Citing PrAnaViz: "citation"
+  Publications:
     - Software:
     - Application:
 
