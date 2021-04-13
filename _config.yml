@@ -9,14 +9,14 @@ author: Kishore Jagadeesan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Demo App: 
+  #Demo App (: 
   Documentation:
     - PrAna: "/files/prana_handbook.pdf"
     - PrAnaViz: "quick-start"
   #Citing PrAnaViz: "citation"
   Publications:
-    - Software:
-    - Application:
+    - Software: "pub-soft"
+    - Application: "pub-app"
 
 # --- Logo --- #
 

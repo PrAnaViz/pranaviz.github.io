@@ -50,7 +50,7 @@ To install the development version of PrAna from GitHub:
 ```
 install.packages("devtools")
 library(devtools)
-install_github("jkkishore85/PrAna")
+install_github("PrAnaViz/PrAna")
 ```
 However, since it is dependent on some other software tools some extra steps are required for the installation. Please see the installation section in the handbook <!--[handbook-inst] -->for more information.
 
