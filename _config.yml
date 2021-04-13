@@ -10,6 +10,7 @@ author: Kishore Jagadeesan
 
 navbar-links:
   #Demo App (: 
+  About: "about"
   Documentation:
     - PrAna: "/files/prana_handbook.pdf"
     - PrAnaViz: "quick-start"
