@@ -2,9 +2,7 @@
   layout: page
 ---
 
-## **About**
-
-PrAnaViz is a project built by the [Environmental Chemistry and Public Health Group](https://people.bath.ac.uk/bkh20/) at the University of Bath. It aims to aggregate and normalize England's national level prescription data published by NHS BSA., for all groups of drugs.
+PrAnaViz is a project built by the [Environmental Chemistry and Public Health Group](https://people.bath.ac.uk/bkh20/) at the University of Bath. It aims to aggregate and normalize England's national level prescription data published by NHS BSA, for all groups of drugs.
 
 ***PrAnaViz*** and ***PrAna*** package were built as a part of the **Wastewater Fingerprinting for Public Health Assessment (ENTRUST)** project funded by **University of Bath**, **Wessex Water** and **EPSRC IAA** *(grant no. EP/R51164X/1)*.
 
@@ -27,4 +25,4 @@ The code that runs this site is available under the MIT Licence at [https://gith
 
 ### **Feedback**
 
-We welcome all feedback: please contact us at [kjj28\@bath.ac.uk](mailto:kjj28@bath.ac.uk)
+We welcome all feedback, please [contact us](mailto:kjj28@bath.ac.uk)
