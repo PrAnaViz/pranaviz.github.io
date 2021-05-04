@@ -15,9 +15,7 @@ navbar-links:
     - PrAna: "/files/prana_handbook.pdf"
     - PrAnaViz: "quick-start"
   #Citing PrAnaViz: "citation"
-  Publications:
-    - Software: "pub-soft"
-    - Application: "pub-app"
+  Publications: "pub-app"
 
 # --- Logo --- #
 
