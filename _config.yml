@@ -9,7 +9,7 @@ author: Kishore Jagadeesan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  #Demo App (: 
+  Demo App : "http://51.141.234.162/shiny/pranaviz/"
   About: "about"
   Documentation:
     - PrAna: "/files/prana_handbook.pdf"
