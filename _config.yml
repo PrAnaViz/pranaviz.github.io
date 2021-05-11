@@ -12,7 +12,7 @@ navbar-links:
   Demo App : "http://51.141.234.162/shiny/pranaviz/"
   About: "about"
   Documentation:
-    - PrAna: "/files/prana_handbook.pdf"
+    - PrAna: "https://pranaviz.bath.ac.uk/PrAna/"
     - PrAnaViz: "quick-start"
   #Citing PrAnaViz: "citation"
   Publications: "pub-app"
