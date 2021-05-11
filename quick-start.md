@@ -7,7 +7,7 @@ layout: page
 
 ### Introduction
 
-The aim of this tool is to visualize and analyze the prescription data to calculate total prescribed quantity of different APIs and to explore spatiotemporal trends of different APIs at Clinical Commissioning Group (CCG) regions with resolution to individual postcode. [***Note:***]{.ul} The demo version of the tool hosted in the [link](http://51.141.234.162/shiny/pranaviz/ "PrAnaViz Demo") present only **Bath and North East Somerset CCG** dataset.
+The aim of this tool is to visualize and analyze the prescription data to calculate total prescribed quantity of different APIs and to explore spatiotemporal trends of different APIs at Clinical Commissioning Group (CCG) regions with resolution to individual postcode. ***Note:*** The demo version of the tool hosted in the [link](http://51.141.234.162/shiny/pranaviz/ "PrAnaViz Demo") present only **Bath and North East Somerset CCG** dataset.
 
 We have created, **PrAnaViz**, in a familiar browser-based dashboard layout that most users are familiar with from typical websites and online tools. The basis functionality of *PrAnaViz* is filtering datasets and producing graphs according to selection criteria defined by the user.
 
@@ -21,7 +21,7 @@ Results are shown in bar chart and line chart based on the user selection criter
 
 This tab also visualize the total quantity of APIs prescribed by month, GP, Chemical form, and Medicinal form for a CCG region in a selected year.
 
-<img src="img/targeted_01.png" alt="targeted approach"/> Figure 4.1: PrAna Targeted Approach.
+<img src="/img/targeted_01.png" alt="targeted approach"/> Figure 4.1: PrAna Targeted Approach.
 
 +----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                                                                                                                              |
@@ -57,7 +57,7 @@ This tab also visualize the total quantity of APIs prescribed by month, GP, Chem
 
 Total prescription quantity of an individual API at different postcode per month at a CCG region, can be rendered in this tab, as in the Figure: 4.2. The calculated total prescription quantity of an individual API at postcode level helps to find the hotspots. User can download data as *.csv* file and publication ready image *.eps* and *.pdf* files.
 
-<img src="img/non_targeted_01.png" title="non-targeted" alt="non-targeted approach"/> Figure 4.2: PrAna Non-targeted Approach.
+<img src="/img/non_targeted_01.png" title="non-targeted" alt="non-targeted approach"/> Figure 4.2: PrAna Non-targeted Approach.
 
 +----------+--------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                        |
