@@ -13,7 +13,7 @@ We have created, **PrAnaViz**, in a familiar browser-based dashboard layout that
 
 *PrAnaViz* grouped into two panels (1) Targeted API, (2) Non-targeted API, that each consist of two to three output boxes displaying the results. Users can navigate between different panels through clicking the respective option in the sidebar. And the user-defined selection can be downloaded in a *.pdf* or *.eps* and data as *.csv* format for further analysis.
 
-[![Figure 4.1 Target List](img/target_list.PNG "Figure 4.1 Target List")](Figure 4.1)
+[![Figure 4.1 Target List](/img/target_list.PNG "Figure 4.1 Target List")](Figure%204.1)
 
 ### Targeted Panel
 
@@ -41,7 +41,7 @@ The bottom portion of this panel visualize the total quantity of a selected API 
 
 User can download data as *.csv* file and publication ready image *.eps* and *.pdf* files.
 
-[![Figure 4.2. Targeted approach](img/targeted_01.png)](Figure 4.2.) Figure 4.2: PrAnaViz Targeted Panel.
+[![Figure 4.2. Targeted approach](/img/targeted_01.png)](Figure%204.2.) Figure 4.2: PrAnaViz Targeted Panel.
 
 +----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                                                                                                                              |
@@ -93,7 +93,7 @@ All output is based on the selection criteria defined by the user in the panel (
 
 : Table 2. Selection criteria in Non-Targeted Panel
 
-[![Figure 4.3 Non-targeted Panel](img/non_targeted_01.png "Non-targeted Panel")](Figure 4.3) Figure 4.3: Non-targeted Panel.
+[![Figure 4.3 Non-targeted Panel](/img/non_targeted_01.png "Non-targeted Panel")](Figure%204.3) Figure 4.3: Non-targeted Panel.
 
 +----------+--------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                        |
