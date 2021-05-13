@@ -17,13 +17,14 @@ We have created, **PrAnaViz**, in a familiar browser-based dashboard layout that
 
 In this panel, user can input a list of APIs in *.csv* format as in the **Figure:4.1**, and find out the total prescription quantity of each API in the selected year, at the selected CCG region, and 5 different selection criteria can be found in this panel as in **Table 1**.
 
-| Criteria                 | Functionality |
+| Criteria | Functionality |
 | --- | ----------- |
-| Upload targets           | Upload target list, i.e., APIs in `.csv` format                                 |
-| Select Prescription Year | Select the prescription year of interest                                        |
-| Select Region            | Select the CCG region of interest                                               |
+| Upload targets           | Upload target list, i.e., APIs in `.csv` format|
+| Select Prescription Year | Select the prescription year of interest       |
+| Select Region            | Select the CCG region of interest      |
 | Select Graph Type        | Define the output as total prescription for the year or month wise prescription |
-| Setting Type             | Select the General Practice setting type                                        |
+| Setting Type             | Select the General Practice setting type |
+
 Table 1. Selection criteria in Targeted Panel
 
 [![Figure:4.1 Target List](/img/target_list.PNG "Figure:4.1: Target List")](Figure:4.1) Figure:4.1: Target List.
