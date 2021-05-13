@@ -13,13 +13,11 @@ We have created, **PrAnaViz**, in a familiar browser-based dashboard layout that
 
 *PrAnaViz* grouped into two panels (1) Targeted API, (2) Non-targeted API, that each consist of two to three output boxes displaying the results. Users can navigate between different panels through clicking the respective option in the sidebar. And the user-defined selection can be downloaded in a *.pdf* or *.eps* and data as *.csv* format for further analysis.
 
-[![Figure 4.1 Target List](/img/target_list.PNG "Figure 4.1 Target List")](Figure 4.1)
+[![Figure:4.1 Target List](/img/target_list.PNG "Figure 4.1 Target List")](Figure:4.1)
 
 ### Targeted Panel
 
-In this panel, user can input a list of APIs in *.csv* format as in the **Figure 4.1**, and find out the total prescription quantity of each API in the selected year, at the selected CCG region, and 5 different selection criteria can be found in this panel as in **Table 1**.
-
-![Edit Attributes (F4)](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAYAAADhAJiYAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA4NpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDYuMC1jMDAyIDc5LjE2NDM2MCwgMjAyMC8wMi8xMy0wMTowNzoyMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDpmOGVmYTNiOC1hNTg2LTQ2YzctODY5NC1mNjI4ODk4ZGU1NzkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RENBRDAyRTJEMTM5MTFFQUI5MDc4NkU4Nzg5Q0U4NjgiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RENBRDAyRTFEMTM5MTFFQUI5MDc4NkU4Nzg5Q0U4NjgiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIDIxLjAgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkMjQ3YjE0OC0yMGQ0LTQ3NzYtODM5OC1hOTc3NGM0MGQ5YTYiIHN0UmVmOmRvY3VtZW50SUQ9ImFkb2JlOmRvY2lkOnBob3Rvc2hvcDo3M2Q3MTQ1ZC0xYWRiLThmNDQtYWE1MS1jYzYyMDRiOTc4NDMiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6MRjK9AAACIElEQVR42syYv0/CQBTHwYjBUNFFmQ3dTNC44OBiWIwaFhfdNc4s4uioLvoH6IyDLqDGhbho1IUYEiabOBMWtRVNGPB7+CSkvUJL2ysv+RiSu7739X68e3fBZrMZGCQbZn/S6fRAiMnn83+CbJoEVsESmAPTYJzaPsAbeAF34BpotkfIoskgCzZBxKTPFJEEO+AL5MAhUKwEGbLQJwwOQAVsdRHDswh9UyFRYaeC4uCRRmbEwfJg3+6SL7lfQfPggdaJW8Z83ZNvW4LYf3ELYh5sphj5lq0KGgUXYNLDHc58X1KsnoL2wayAtJOgWF0FsUWcEZgLM/qp0wvaAyGBgkIUkytojJKeaNug2AZBKzaTnlsWodgGQSkfz9UUT1DCR0EJ3uEaNz1VZbldorASQVEUx22c3W0YoahZb+ZUkqQW+tqp3zadRe2c9kKtU9CnWadCoRDQNC2gqmrrtxttOmvHDrKamobziQorP+wZLLB11jlCZR9nqsybsqKPgoo8QTdUA4u2OsU2CFLBuQ+CchSbu+1ZMd8QKKZBxb9p+cFS6bFAQSfg1UrFWBa0s3pWjMy+wTqoeSimRjHqVm8dbOqWQdUDMVXyrdi9l5XAosvTVyafpX5vrgodJ0cOd1+DfCR73fGtnPY/dJWeAae8ee9ibD2e0bdZ8uXa6wfbntt0dVnTPcdMUJ933XPMlZfPMf+mUUb3JKsHB+1J71eAAQC4YppRCfko4gAAAABJRU5ErkJggg==)
+In this panel, user can input a list of APIs in *.csv* format as in the **Figure:4.1**, and find out the total prescription quantity of each API in the selected year, at the selected CCG region, and 5 different selection criteria can be found in this panel as in **Table 1**.
 
 +--------------------------+---------------------------------------------------------------------------------+
 | Criteria                 | Functionality                                                                   |
@@ -43,7 +41,7 @@ The bottom portion of this panel visualize the total quantity of a selected API 
 
 User can download data as *.csv* file and publication ready image *.eps* and *.pdf* files.
 
-[![Figure 4.2. Targeted approach](/img/targeted_01.png)](Figure 4.2) Figure 4.2: PrAnaViz Targeted Panel.
+[![Figure:4.2: Targeted Panel](/img/targeted_01.png "Figure:4.2. Targeted Panel")](Figure:4.2) Figure:4.2: PrAnaViz Targeted Panel.
 
 +----------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                                                                                                                              |
@@ -95,7 +93,7 @@ All output is based on the selection criteria defined by the user in the panel (
 
 : Table 2. Selection criteria in Non-Targeted Panel
 
-[![Figure 4.3 Non-targeted Panel](/img/non_targeted_01.png "Non-targeted Panel")](Figure%204.3) Figure 4.3: Non-targeted Panel.
+[![Figure:4.3: Non-targeted Panel](/img/non_targeted_01.png "Figure:4.3: Non-targeted Panel")](Figure:4.3) Figure:4.3: Non-targeted Panel.
 
 +----------+--------------------------------------------------------------------------------------------------+
 | *Option* | *Remarks*                                                                                        |
