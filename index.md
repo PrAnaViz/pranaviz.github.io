@@ -18,7 +18,7 @@ Our software and R package paper will be published shortly, until then please ci
 
 ### Code and contributions
 
-The code that runs this site is available under the MIT License at [https://github.com/PrAnaViz/PrAna](https://github.com/ebmdatalab/openprescribing). We welcome contributions and issues.
+The code that runs this site is available under the MIT License at [https://github.com/PrAnaViz/PrAna](https://github.com/PrAnaViz/PrAna). We welcome contributions and issues.
 
 ### Data sources
 
