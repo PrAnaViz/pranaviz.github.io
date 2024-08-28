@@ -11,10 +11,9 @@ layout: page
 **Demo App** available in the menu is a prototype tool for demonstration purpose and has the dataset for the years 2015 to 2018 limited to Bath and North East Somerset Clinical Commissioning Group (CCG) region
 
 ### Citation
+Please cite the following article,
 
-Our software and R package paper will be published shortly, until then please cite the [preprint](https://www.researchsquare.com/article/rs-499597/v1)
-
-| Kishore Kumar Jagadeesan, James Grant, Sue Griffin, Ruth Barden, Barbara Kasprzyk-Hordern, PrAna: An R package to calculate and visualize England NHS primary care prescribing data", ***BMC Medical Informatics and Decision Making*** *(under review)*.
+| Kishore Kumar Jagadeesan, James Grant, Sue Griffin, Ruth Barden, Barbara Kasprzyk-Hordern, PrAna: An R package to calculate and visualize England NHS primary care prescribing data",[***BMC Medical Informatics and Decision Making***](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01727-z) 22, 5 (2022).
 
 ### Code and contributions
 
