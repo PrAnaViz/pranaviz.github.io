@@ -9,7 +9,7 @@ author: Kishore Jagadeesan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Demo App : "http://51.141.234.162/shiny/pranaviz/"
+  Demo App : "http://20.68.23.202:3838/pranaviz/"
   Documentation:
     - PrAna: "https://pranaviz.bath.ac.uk/PrAna/"
     - PrAnaViz: "quick-start"

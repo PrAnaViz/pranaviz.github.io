@@ -7,7 +7,7 @@ layout: page
 
 ### Introduction
 
-The aim of this tool is to visualize and analyze the prescription data to calculate total prescribed quantity of different APIs and to explore spatiotemporal trends of different APIs at Clinical Commissioning Group (CCG) regions with resolution to individual postcode. ***Note:*** The demo version of the tool hosted in the [link](http://51.141.234.162/shiny/pranaviz/ "PrAnaViz Demo") present only **Bath and North East Somerset CCG** dataset.
+The aim of this tool is to visualize and analyze the prescription data to calculate total prescribed quantity of different APIs and to explore spatiotemporal trends of different APIs at Clinical Commissioning Group (CCG) regions with resolution to individual postcode. ***Note:*** The demo version of the tool hosted in the [link](http://20.68.23.202:3838/pranaviz/ "PrAnaViz Demo") present only **Bath and North East Somerset CCG** dataset.
 
 We have created, **PrAnaViz**, in a familiar browser-based dashboard layout that most users are familiar with from typical websites and online tools. The basis functionality of *PrAnaViz* is filtering datasets and producing graphs according to selection criteria defined by the user.
 
